@@ -81,4 +81,8 @@ export LD_LIBRARY_PATH=$OPENEMS_ROOT/lib
 
 ## License
 
-MIT
+GPL-3.0
+
+本项目的仿真脚本参考/移植了 openEMS 官方示例（CRLH_Extraction.py、
+MSL_NotchFilter.py）的代码逻辑，并链接 openEMS 库（GPL），
+因此以 GPL-3.0 发布。
